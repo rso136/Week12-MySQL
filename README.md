@@ -1,1 +1,16 @@
 # Week12-MySQL
+
+![alt tag](https://github.com/rso136/Week12-MySQL/blob/master/screenshots/bamazon1.png)
+![alt tag](https://github.com/rso136/Week12-MySQL/blob/master/screenshots/bamazon2.png)
+![alt tag](https://github.com/rso136/Week12-MySQL/blob/master/screenshots/bamazon3.png)
+![alt tag](https://github.com/rso136/Week12-MySQL/blob/master/screenshots/bamazon4.png)
+![alt tag](https://github.com/rso136/Week12-MySQL/blob/master/screenshots/bamazon5.png)
+![alt tag](https://github.com/rso136/Week12-MySQL/blob/master/screenshots/manager1.png)
+![alt tag](https://github.com/rso136/Week12-MySQL/blob/master/screenshots/manager2.png)
+![alt tag](https://github.com/rso136/Week12-MySQL/blob/master/screenshots/manager3.png)
+![alt tag](https://github.com/rso136/Week12-MySQL/blob/master/screenshots/manager4.png)
+![alt tag](https://github.com/rso136/Week12-MySQL/blob/master/screenshots/manager5.png)
+![alt tag](https://github.com/rso136/Week12-MySQL/blob/master/screenshots/manager6.png)
+![alt tag](https://github.com/rso136/Week12-MySQL/blob/master/screenshots/manager7.png)
+![alt tag](https://github.com/rso136/Week12-MySQL/blob/master/screenshots/manager8.png)
+![alt tag](https://github.com/rso136/Week12-MySQL/blob/master/screenshots/manager9.png)
